@@ -2,10 +2,10 @@
 title: 伪·红魔馆
 subtitle: 个人站
 welcome_message: 欢迎来到这个假的红魔馆
-description: 实际上是某只汀的小窝
+description: (假红魔馆的伪·大图书馆)
 creator:
 
-url: "http://www.ftmc.me"
+url: "http://note.ftmc.me"
 
 permalink: /:year/:month/:title/
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: stlate
 
 # The blog button should not be removed.
 blog_button:
