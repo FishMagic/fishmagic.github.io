@@ -1,6 +1,6 @@
 ---
 layout: post_MathJax
-title: test
+title: MathJax
 ---
 
 一层级

@@ -1,6 +1,6 @@
 ---
 layout: post_KaTeX
-title: test
+title: KaTeX
 ---
 
 一层级
