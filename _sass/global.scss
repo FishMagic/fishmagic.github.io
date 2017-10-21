@@ -14,7 +14,7 @@ html {
 body {
   font-family: $sans-font;
   font-size: 1em;
-  color: $gray-darker;
+  color: #3c3c3c;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -110,7 +110,7 @@ blockquote {
   font-family: $serif-font;
   font-weight: lighter;
   font-size: 1em;
-  border-left: 3px solid $primary-color;
+  border-left: 3px solid #66ccff;
 
   p {
 
@@ -201,7 +201,7 @@ th {font-weight: bold;}
 th:first-child, td:first-child {padding: 0 15px 0 20px;}
 
 thead tr:last-child th {
-    border-bottom: 1px solid $gray-light;
+    border-bottom: 1px solid #66ccff;
 }
 
 tbody tr:last-child td {border: none;}
