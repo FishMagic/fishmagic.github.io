@@ -145,7 +145,7 @@ ol {
 }
 
 ul {
-  list-style-type: list-item;
+  list-style-type: disc;
 }
 
 code {
@@ -186,7 +186,7 @@ table {
   text-align: center;
   line-height: 40px;
   border-spacing: 0;
-  border: 2px solid darken($primary-color, 10%);
+  border: 2px solid darken(#66ccff, 10%);
   width: 90%;
   margin: 50px auto;
 }
